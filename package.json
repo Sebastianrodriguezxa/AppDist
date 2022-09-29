@@ -1,0 +1,23 @@
+{
+  "name": "appdist",
+  "version": "1.0.0",
+  "description": "Aplicación de sistema distribuido",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sebastianrodriguezxa/AppDist.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sebastianrodriguezxa/AppDist/issues"
+  },
+  "homepage": "https://github.com/Sebastianrodriguezxa/AppDist#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
