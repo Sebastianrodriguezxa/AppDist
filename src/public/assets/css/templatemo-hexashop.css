@@ -82,7 +82,7 @@ header, nav, section, article, aside, footer, hgroup {
 html, body {
   font-family: 'Poppins', sans-serif;
   font-weight: 400;
-  background-color: #fff;
+  background-color: rgba(121, 117, 117, 0.235);
   font-size: 16px;
   -ms-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
@@ -115,7 +115,7 @@ global styles
 */
 html,
 body {
-  background: #fff;
+  background: rgb(118, 126, 122);
   font-family: 'Poppins', sans-serif;
 }
 
@@ -313,7 +313,7 @@ header
 }
 
 .header-area .main-nav .nav li a {
-  color: #2a2a2a;
+  color: #c7c0c0;
 }
 
 .header-area .main-nav .nav li:hover a,
@@ -336,7 +336,7 @@ header
   font-family: FontAwesome;
   content: "\f107";
   font-size: 12px;
-  color: #2a2a2a;
+  color: #c2b8b8;
   position: absolute;
   right: 18px;
   top: 12px;
@@ -349,7 +349,7 @@ header
 .header-area .main-nav .nav li.submenu ul {
   position: absolute;
   width: 200px;
-  box-shadow: 0 2px 28px 0 rgba(0, 0, 0, 0.06);
+  box-shadow: 0 2px 28px 0 rgba(220, 215, 215, 0.06);
   overflow: hidden;
   top: 50px;
   opacity: 0;
@@ -445,7 +445,7 @@ header
   -o-transition: all 0.4s;
   -webkit-transition: all 0.4s;
   transition: all 0.4s;
-  background-color: #1e1e1e;
+  background-color: #f9f3f3;
   display: block;
   position: absolute;
   width: 30px;
@@ -456,7 +456,7 @@ header
 
 .background-header .main-nav .menu-trigger span:before,
 .background-header .main-nav .menu-trigger span:after {
-  background-color: #1e1e1e;
+  background-color: #e4d2d2;
 }
 
 .header-area .main-nav .menu-trigger span:before,
@@ -786,7 +786,7 @@ Men
 
 #men .item .down-content h4 {
   font-size: 22px;
-  color: #2a2a2a;
+  color: #ded7d7;
   font-weight: 700;
   margin-bottom: 8px;
 }
@@ -947,7 +947,7 @@ Women
 
 #women .item .down-content h4 {
   font-size: 22px;
-  color: #2a2a2a;
+  color: #ebe7e7;
   font-weight: 700;
   margin-bottom: 8px;
 }
@@ -1033,7 +1033,7 @@ Women
 #women .owl-nav .owl-prev:before {
   display: inline-block;
   font-family: 'FontAwesome';
-  color: #2a2a2a;
+  color: #e0d1d1;
   font-size: 25px;
   font-weight: 700;
   content: '\f104';
@@ -1041,7 +1041,7 @@ Women
   height: 50px;
   background-color: transparent;
   line-height: 48px;
-  border :1px solid #2a2a2a;
+  border :1px solid #7b7a7a;
 }
 
 #women .owl-nav .owl-prev {
